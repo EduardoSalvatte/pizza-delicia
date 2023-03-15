@@ -1,0 +1,87 @@
+body {
+    margin: 0px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 20px;
+    text-align: center;
+}
+
+header {
+    background-color: rgb(255, 95, 37);
+    text-align: center;
+    color: white;
+    font-family: 'Brush Script MT';
+    font-size: 54px;
+    text-shadow: 4px 4px 5px Black;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+nav {
+    background-color: rgb(255, 120, 41);
+    text-align: center;
+    padding: 3px 0px 6px 0px;
+    text-shadow: 2px 2px 3px black;
+}
+
+nav a {
+    color: white;
+    padding-left: 15px;
+    padding-right: 15px;
+    text-decoration: none;
+}
+
+nav a:hover {
+    color: white;
+    font-weight: bold;
+}
+
+#container {
+    background-color: rgb(255, 230, 91);
+    padding: 50px 80px 50px 80px;
+}
+
+#interna {
+    display: flex;
+    justify-content: center;
+    padding: 40px;
+    text-align: justify;
+}
+
+#titulo {
+    padding-left: 50px;
+}
+
+#img-text {
+    width: 400px;
+}
+
+#img-text2 {
+    width: 350px;
+}
+
+#interna2 {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+footer {
+    background-color: rgb(255, 132, 0);
+    color: white;
+    text-align: center;
+    padding: 10px 0px 10px 0px;
+    margin-top: 0px;
+}
+
+footer a {
+    color: yellow;
+    text-decoration: none;
+}
+
+footer a:hover {
+    color: black;
+}
+
+table {
+    text-align: right;
+    margin-top: 40px;
+}
